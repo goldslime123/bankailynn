@@ -1,2 +1,0 @@
-# bankailynn
-Hotel Management System
